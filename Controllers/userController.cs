@@ -8,6 +8,7 @@ namespace FitnessConsoleApp.Controllers
 {
     public class userController
     {
+        //RHENZ GANOTICE
         /*
         private List<Models.user> users;
         View.menu menu = new View.menu();
