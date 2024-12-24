@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|c:\\users\\ganotice\\onedrive\\desktop\\bscsappdev\\programming language pratie\\c#\\fitnessapp\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|c:\\users\\ganotice\\onedrive\\desktop\\bscsappdev\\programming language pratie\\c#\\fitnessapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|c:\\users\\ganotice\\onedrive\\desktop\\bscsappdev\\programming language pratie\\c#\\fitnessapp\\accountrepo\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|solutionrelative:accountrepo\\accountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|c:\\users\\ganotice\\onedrive\\desktop\\bscsappdev\\programming language pratie\\c#\\fitnessapp\\view\\userinterface\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|solutionrelative:view\\userinterface\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|c:\\users\\ganotice\\onedrive\\desktop\\bscsappdev\\programming language pratie\\c#\\fitnessapp\\view\\userinterface\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|solutionrelative:view\\userinterface\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|c:\\users\\ganotice\\onedrive\\desktop\\bscsappdev\\programming language pratie\\c#\\fitnessapp\\view\\userinterface\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|solutionrelative:view\\userinterface\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|c:\\users\\ganotice\\onedrive\\desktop\\bscsappdev\\programming language pratie\\c#\\fitnessapp\\view\\admininterface\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6E273A-CA04-418D-9E27-B074E7A05C1A}|FitnessConsoleApp.csproj|solutionrelative:view\\admininterface\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 353,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\userInterface\\Profile.cs",
+              "RelativeDocumentMoniker": "View\\userInterface\\Profile.cs",
+              "ToolTip": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\userInterface\\Profile.cs",
+              "RelativeToolTip": "View\\userInterface\\Profile.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:25:51.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\userInterface\\Home.cs",
+              "RelativeDocumentMoniker": "View\\userInterface\\Home.cs",
+              "ToolTip": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\userInterface\\Home.cs",
+              "RelativeToolTip": "View\\userInterface\\Home.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:24:05.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\adminInterface\\dashboard.cs",
+              "RelativeDocumentMoniker": "View\\adminInterface\\dashboard.cs",
+              "ToolTip": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\adminInterface\\dashboard.cs",
+              "RelativeToolTip": "View\\adminInterface\\dashboard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:44:55.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "accountRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\AccountRepo\\accountRepo.cs",
+              "RelativeDocumentMoniker": "AccountRepo\\accountRepo.cs",
+              "ToolTip": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\AccountRepo\\accountRepo.cs",
+              "RelativeToolTip": "AccountRepo\\accountRepo.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAnwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:01:39.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "user.cs",
+              "DocumentMoniker": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\Models\\user.cs",
+              "RelativeDocumentMoniker": "Models\\user.cs",
+              "ToolTip": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\Models\\user.cs",
+              "RelativeToolTip": "Models\\user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:35:21.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\Login.cs",
+              "RelativeToolTip": "View\\Login.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:24:20.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "editProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\userInterface\\editProfile.cs",
+              "RelativeDocumentMoniker": "View\\userInterface\\editProfile.cs",
+              "ToolTip": "C:\\Users\\Ganotice\\OneDrive\\Desktop\\BSCSAPPDEV\\programming language pratie\\c#\\FitnessApp\\View\\userInterface\\editProfile.cs",
+              "RelativeToolTip": "View\\userInterface\\editProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:36:14.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 143,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

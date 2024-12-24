@@ -1,4 +1,5 @@
 ﻿using FitnessConsoleApp.AccountRepo;
+using FitnessConsoleApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +12,7 @@ namespace FitnessConsoleApp.View
     {
         bool end = false;
         accountRepo repo = new accountRepo();
+        adminInterface.dashboard dashboard = new adminInterface.dashboard();
 
         //SHOW LOGIN FORM
         public void showLogin()
@@ -43,6 +45,7 @@ namespace FitnessConsoleApp.View
                     default:
                         Console.WriteLine("Invalid Input");
                         end = true;
+                        Console.Clear();
                         break;
                 }
             }
@@ -52,8 +55,9 @@ namespace FitnessConsoleApp.View
         //SHOW LOGIN
         public void login()
         {
+
             Console.Clear();
-            while (!end) 
+            while (!end)
             {
                 Console.WriteLine("X back button X");
                 Console.WriteLine("Login Form");
@@ -70,22 +74,38 @@ namespace FitnessConsoleApp.View
                 {
                     showLogin();
                 }
-                var user = repo.users.Values.FirstOrDefault(u => u.Name == userName && u.Password == password);
+
+                var user = repo.users.FirstOrDefault(u => u.Name == userName && u.Password == password);
+                userInterface.Home home = new userInterface.Home(user);
 
                 if (user != null)
                 {
-                    Console.WriteLine("Login Success");
+                    if (user.Role.ToLower() == "admin")
+                    {
+                        Console.WriteLine("Hello Admin. Please Wait...");
+                        Thread.Sleep(2000);
+                        dashboard.showDashboard();
+                        Console.Clear();
+                    }
+                    else if (user.Role.ToLower() == "user")
+                    {
+                        Console.WriteLine("Login Successfully. Please Wait...");
+                        Thread.Sleep(2000);
+                        home.showHome();
+                        Console.Clear();
+                    }
+
                     end = true;
-                    Thread.Sleep(2000);
-                    userInterface.Home home = new userInterface.Home(user);
-                    home.showHome();
+
                 }
                 else
                 {
                     Console.WriteLine("Login Failed");
+                    Console.Clear();
                 }
             }
         }
+
 
         //SHOW REGISTRATION FORM
         public void register()
@@ -101,7 +121,9 @@ namespace FitnessConsoleApp.View
             {
                 Id = repo.users.Count + 1,
                 Name = userName,
-                Password = password
+                Password = password,
+                Role = "user"
+
             };
 
             repo.addUser(user);

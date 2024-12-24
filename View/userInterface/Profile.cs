@@ -38,7 +38,8 @@ namespace FitnessConsoleApp.View.userInterface
             switch (userChossen) 
             {
                 case 1:
-                    editProfile(user);
+                    editProfile editProfile = new editProfile();
+                    editProfile.showEditProfile(user);
                     break;
                 case 2:
                     Home home = new Home(user);

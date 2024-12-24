@@ -27,3 +27,18 @@ c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\2ndyr\1st_sem\oop\reviewers\OOP Co
 c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\2ndyr\1st_sem\oop\reviewers\OOP Concept\FitnessConsoleApp\obj\Debug\net8.0\FitnessConsoleApp.pdb
 c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\2ndyr\1st_sem\oop\reviewers\OOP Concept\FitnessConsoleApp\obj\Debug\net8.0\FitnessConsoleApp.genruntimeconfig.cache
 c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\2ndyr\1st_sem\oop\reviewers\OOP Concept\FitnessConsoleApp\obj\Debug\net8.0\ref\FitnessConsoleApp.dll
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\bin\Debug\net8.0\FitnessConsoleApp.exe
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\bin\Debug\net8.0\FitnessConsoleApp.deps.json
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\bin\Debug\net8.0\FitnessConsoleApp.runtimeconfig.json
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\bin\Debug\net8.0\FitnessConsoleApp.dll
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\bin\Debug\net8.0\FitnessConsoleApp.pdb
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\FitnessConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\FitnessConsoleApp.AssemblyInfoInputs.cache
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\FitnessConsoleApp.AssemblyInfo.cs
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\FitnessConsoleApp.csproj.CoreCompileInputs.cache
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\FitnessConsoleApp.sourcelink.json
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\FitnessConsoleApp.dll
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\refint\FitnessConsoleApp.dll
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\FitnessConsoleApp.pdb
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\FitnessConsoleApp.genruntimeconfig.cache
+c:\Users\Ganotice\OneDrive\Desktop\BSCSAPPDEV\programming language pratie\c#\FitnessApp\obj\Debug\net8.0\ref\FitnessConsoleApp.dll
