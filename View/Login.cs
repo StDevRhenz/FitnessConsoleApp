@@ -26,7 +26,7 @@ namespace FitnessConsoleApp.View
                 Console.WriteLine("Login Form");
                 Console.WriteLine("1. Login");
                 Console.WriteLine("2. Register");
-                Console.WriteLine("3. Exit na to");
+                Console.WriteLine("3. Exit");
                 //RHENZ POGI
                 userInput = Convert.ToInt32(Console.ReadLine());
                 switch (userInput) 
